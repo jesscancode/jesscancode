@@ -1,7 +1,7 @@
 <h1>Hey! Nice to see you.  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/></h1>
 <p>Hi 👋 <b>I'm Jess</b>, a software developer, and social worker from 🏔️ <b>Mthatha, South Africa</b>, living in <img src="https://cdn-icons-png.flaticon.com/512/3909/3909408.png" width="13"/> <b>Cape Town</b>. 🥗 Currently thinking about and building innovative solutions to the mental health and metabolic health crisis. 🏋🏼‍♀️</p>
 
-There are around 6.8 billion smartphone subscriptions worldwide, and while this differs across countries, almost all the world owns a cellphone. 
+There are around 6.8 billion smartphone subscriptions worldwide, and while this differs across countries, almost all the world owns a cellphone. 📲
 
 Whether you're looking at low-tech, low-data solutions or premium subscription services, there are two things we know for sure:
 
