@@ -30,11 +30,6 @@ Needless to say, 𝗜 𝗵𝗮𝘃𝗲 𝗴𝗿𝗲𝗮𝘁 𝗵𝗼𝗽𝗲 �
 ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-circle&logo=css3)
 
 
-## ✍️ My Latest Posts
-<ul>
-  <li><a href="https://www.metabolicmonthly.com/could-digital-health-interventions-like-holly-health-help-solve-the-metabolic-crisis/"><b>Could digital health coach interventions like Holly Health help solve the metabolic health crisis?</b></a><br/><i>The power of personal health coaching and the hope for digital health interventions</i></li>
-  <li><a href="https://jesscancode.hashnode.dev/what-in-the-html-a-beginners-guide-to-markup-and-html"><b>🔧 What in the HTML?</b></a><br/><i>A Beginners Guide to Markup and HTML</i></li>
-</ul>
 
 
 
