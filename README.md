@@ -1,5 +1,5 @@
 <h1>Hey! Nice to see you.  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/></h1>
-<p>Hi 👋 <b>I'm Jess</b>, a software developer, and social worker from 🏔️ <b>Mthatha, South Africa</b>, living in <img src="https://cdn-icons-png.flaticon.com/512/3909/3909408.png" width="13"/> <b>Cape Town</b>. Currently thinking about and <b>building innovative solutions</b> to the <b>mental health</b> and <b>metabolic health crisis.</b> 🧠🥗🏋🏼‍♀️</p>
+<p>Hi 👋 <b>I'm Jess</b>, a software developer, and social worker from 🏔️ <b>Mthatha, South Africa</b>, living in <img src="https://cdn-icons-png.flaticon.com/512/3909/3909408.png" width="13"/> <b>Cape Town</b>. Currently Head of Operations at CodeSpace and thinking about <b>youth employment</b> in the <b>tech industry in South Afrca</b> 🧠</p>
 
 Strategic Operator and Social Worker with 10+ years of experience designing systems, managing people, and helping early-stage orgs scale 🌞
 
