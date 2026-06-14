@@ -1,38 +1,86 @@
-<h1>Hey! Nice to see you.  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/></h1>
-<p>Hi 👋 <b>I'm Jess</b>. Strategic Operator and Social Worker with 10+ years of experience designing systems, managing people, and helping early-stage orgs scale 🌞 From 🏔️ <b>Mthatha, South Africa</b>, living in <img src="https://cdn-icons-png.flaticon.com/512/3909/3909408.png" width="13"/> <b>Cape Town</b>. Currently Head of Operations at CodeSpace and thinking about <b>youth employment</b> in the <b>tech industry in South Afrca</b> 🧠</p>
+<h1 align="center">Hey, nice to see you ✦</h1>
 
+<p align="center">
+  I'm <b>Jess</b> — Strategic Operator &amp; Social Worker.<br/>
+  Founder of <a href="https://creategoodcontent.com"><b>Good Content ✦</b></a> and <a href="https://getajobintech.co.za"><b>Get a Job in Tech</b></a> · Mthatha → Cape Town
+</p>
 
+<p align="center">
+  <a href="https://creategoodcontent.com" target="_blank"><img alt="Good Content" src="https://img.shields.io/badge/Good%20Content%20✦-1a1a1a.svg?&style=flat-square&logo=googlechrome&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/jessklette" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:jess@creategoodcontent.com"><img alt="Email" src="https://img.shields.io/badge/Email-D14836.svg?&style=flat-square&logo=gmail&logoColor=white" /></a>
+</p>
 
-𝗜 𝗦𝗛𝗔𝗥𝗘 𝗣𝗢𝗦𝗧𝗦 𝗔𝗕𝗢𝗨𝗧:
-• the SA tech industry
-• breaking into tech
-• weekly tech role round ups 
-• and landing your first (or next) role
+---
 
-Follow along if you're figuring it out, switching lanes, or helping others do the same. 🚀
+I've spent 10+ years designing systems, leading teams, and helping early-stage orgs scale — first as a social worker, then in tech ops (most recently Head of Operations at CodeSpace, which I recently left to do my own thing ✦).
 
-𝗦𝗞𝗜𝗟𝗟𝗦: Business & Operational Strategy • Team Leadership & People Management • Change Management & Crisis Intervention • Performance Management • Content Strategy & Development • Product-Market Fit Strategy • Go-to-Market (GTM) Strategy • Learning Experience Design • Strategic Planning • Behavioural Change Design • Stakeholder Engagement • Systems Thinking & Implementation 💻
+Now I run **Good Content**, where I bring mixed-methods research, systems thinking, a bit of code, and an *unexpectedly useful* social work background to messy business problems — with empathy, analytical rigor, and human insight.
 
-𝗜𝗡𝗧𝗘𝗥𝗘𝗦𝗧𝗦: Dogs 🐶 • Writing • Behaviour Change • Competitive Strategy • Mental Health • Instructional Design •  Systems Thinking • Metabolic Health • Human-Centred Design • Neapolitan Pizza Dough 🍕 • Helldivers 2 (Managed Democracy)  •  Engine-Building Board Games 🐦
+### The main quest — Good Content
 
-<p><a href="https://github.com/jesscancode" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=flat-circle&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/jesscancode" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=flat-circle&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/jessklette" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=flat-circle&logo=linkedin&logoColor=white" /></a></p>
+I help companies:
 
-## 👾 Technologies
+✦ **Build smarter** products and operations with AI tools
+✦ **Create content strategies** that actually last
+✦ **Show up in search** and rank with AEO
+✦ **Understand their edge** through customer research — WhatsApp, email, real conversations
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-circle&logo=javascript)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-circle&logo=Python)
-![React](https://img.shields.io/badge/-React-black?style=flat-circle&logo=react)
-![D3.js](https://img.shields.io/badge/-D3.js-black?style=flat-circle&logo=d3.js)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-circle&logo=postgresql)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-circle&logo=mysql)
-![NPM](https://img.shields.io/badge/-NPM-black?style=flat-circle&logo=npm)
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-circle&logo=Node.js)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-circle&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-circle&logo=github)
-![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-circle&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-circle&logo=css3)
+> Working on Good Content and finding my next role in tech. **Reach out, and let's do some good work.**
 
+I'm open to projects and to my next role. Whether you need content and strategy, real software built with AI tools and automations, or a systems-minded, human-centred operator — I'd love to hear from you.
 
+✦ [jess@creategoodcontent.com](mailto:jess@creategoodcontent.com) · [LinkedIn](https://www.linkedin.com/in/jessklette) · [creategoodcontent.com](https://creategoodcontent.com)
 
+### Side quests
 
+> Two things I'm building right now.
 
+**1 · [Get a Job in Tech](https://getajobintech.co.za)** — *featured build*
+South Africa's friendliest tech job board: cleaned-up listings, plain-English summaries, and honest green / orange flags so a first-timer can tell a good role from a bad one. I built the whole thing — the site **and** the self-healing AI pipeline behind it that scrapes multiple SA job boards, survives blocks and crashes, and tidies every messy listing into one clean schema.
+`Next.js` · `Supabase` · `n8n` · `OpenAI` · `Vercel`
+
+**2 · claude-like-an-engineer** — *featured build*
+A toolkit that makes AI coding tools behave like a careful teammate — but really it's about **learning as you build**. It's made for new developers and product people who want to ship safe, scalable software with AI, and it's a small step toward becoming an *AI-native engineer*, even while you're still figuring it out (like me).
+
+<!-- TIP: Pin both repos so the cards link automatically. Drop the claude-like-an-engineer repo URL in once it's public. -->
+
+### Coming soon — the newsletter
+
+I'm starting a **weekly newsletter** about what I'm building, breaking, and learning in public — AI, content, SA tech, and the occasional side quest. [Follow me on LinkedIn](https://www.linkedin.com/in/jessklette) so you don't miss it.
+
+<!-- TODO: swap the LinkedIn link above for the newsletter signup URL once it's live. -->
+
+### What I bring
+
+| | |
+|---|---|
+| **Operations & strategy** | Operational & business strategy · org design · competitive intelligence · GTM · product-market fit |
+| **People & change** | Team leadership · people management · change management & crisis intervention · stakeholder engagement |
+| **Research & content** | Mixed-methods research · content strategy · AEO · learning experience design · behaviour-change design |
+| **Building with AI** | Systems thinking + AI tools to ship real products — yes, actual working code |
+
+### Building with
+
+<p>
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+  <img alt="React" src="https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+  <img alt="Supabase" src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" />
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img alt="n8n" src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" />
+  <img alt="OpenAI" src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
+  <img alt="Claude" src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=claude&logoColor=white" />
+  <img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+</p>
+
+### Off the clock
+
+Dogs · Neapolitan pizza dough 🍕 · Helldivers 2 (for Managed Democracy) · engine-building board games · and an *arguably unreasonable* quest to find one specific Pokémon card (Detective Pikachu #098/SV-P — look how cute).
+
+---
+
+<p align="center"><i>Figuring it out, switching lanes, or helping others do the same? Let's connect. ✦</i></p>
