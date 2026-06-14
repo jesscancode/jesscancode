@@ -37,16 +37,41 @@ I'm open to projects and to my next role. Whether you need content and strategy,
 
 ### Side quests
 
-> Two things I'm building right now.
+> Three things I'm building right now.
 
-**1 · [Get a Job in Tech](https://getajobintech.co.za)** — *featured build*
-South Africa's friendliest tech job board: cleaned-up listings, plain-English summaries, and honest green / orange flags so a first-timer can tell a good role from a bad one. I built the whole thing — the site **and** the self-healing AI pipeline behind it that scrapes multiple SA job boards, survives blocks and crashes, and tidies every messy listing into one clean schema.
-`Next.js` · `Supabase` · `n8n` · `OpenAI` · `Vercel`
+<table>
+<tr>
+<td width="33%" valign="top" align="center">
 
-**2 · claude-like-an-engineer** — *featured build*
-A toolkit that makes AI coding tools behave like a careful teammate — but really it's about **learning as you build**. It's made for new developers and product people who want to ship safe, scalable software with AI, and it's a small step toward becoming an *AI-native engineer*, even while you're still figuring it out (like me).
+**[Get a Job in Tech](https://getajobintech.co.za)**
 
-<!-- TIP: Pin both repos so the cards link automatically. Drop the claude-like-an-engineer repo URL in once it's public. -->
+SA's friendliest tech job board — clean listings, plain-English summaries, and honest green / orange flags. I built the site **and** the self-healing AI pipeline that feeds it.
+
+`Next.js` · `Supabase` · `n8n` · `OpenAI`
+
+</td>
+<td width="33%" valign="top" align="center">
+
+**claude-like-an-engineer**
+
+A toolkit that makes AI coding tools behave like a careful teammate. Really it's about **learning as you build** — for new developers and product people shipping safe, scalable software with AI.
+
+`AI workflows` · `Node` · `Git`
+
+</td>
+<td width="33%" valign="top" align="center">
+
+**Full Art**
+
+Semantic search over Pokémon card **art** — find a card by what the picture shows (*"pikachu in the rain"*), not its name. A vision model "reads" every card; embeddings + pgvector make it searchable. Born from my own card hunt.
+
+`Computer vision` · `Embeddings` · `pgvector`
+
+</td>
+</tr>
+</table>
+
+<!-- TIP: Pin these repos so the cards link automatically. Add the claude-like-an-engineer + Full Art repo URLs once they're public, and a screenshot per card would make this section pop. -->
 
 ### Coming soon — the newsletter
 
@@ -69,6 +94,8 @@ I'm starting a **weekly newsletter** about what I'm building, breaking, and lear
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
   <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img alt="Astro" src="https://img.shields.io/badge/Astro-BC52EE?style=flat-square&logo=astro&logoColor=white" />
+  <img alt="Svelte" src="https://img.shields.io/badge/Svelte-FF3E00?style=flat-square&logo=svelte&logoColor=white" />
   <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
   <img alt="Supabase" src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" />
   <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
@@ -79,6 +106,7 @@ I'm starting a **weekly newsletter** about what I'm building, breaking, and lear
   <img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
   <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
 </p>
+
 
 ### Off the clock
 
