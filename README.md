@@ -17,6 +17,9 @@ I've spent 10+ years designing systems, leading teams, and helping early-stage o
 
 Now I run **Good Content**, where I bring mixed-methods research, systems thinking, a bit of code, and an *unexpectedly useful* social work background to messy business problems — with empathy, analytical rigor, and human insight.
 
+I 💖 to help organizations sharpen their strategic edge through competitive intelligence, organizational design, and AI-enabled strategy. I bring mixed-methods research, systems thinking, coding, and an unexpectedly useful social work background — solving complex business problems with empathy, analytical rigor and human insight.
+
+
 ### The main quest — Good Content
 
 I help companies:
