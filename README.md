@@ -21,10 +21,10 @@ Now I run **Good Content**, where I bring mixed-methods research, systems thinki
 
 I help companies:
 
-✦ **Build smarter** products and operations with AI tools
-✦ **Create content strategies** that actually last
-✦ **Show up in search** and rank with AEO
-✦ **Understand their edge** through customer research — WhatsApp, email, real conversations
+- ✦ **Build smarter** products and operations with AI tools 
+- ✦ **Create content strategies** that actually last
+- ✦ **Show up in search** and rank with AEO
+- ✦ **Understand their edge** through customer research — WhatsApp, email, real conversations
 
 > Working on Good Content and finding my next role in tech. **Reach out, and let's do some good work.**
 
