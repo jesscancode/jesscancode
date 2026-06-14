@@ -15,8 +15,6 @@
 
 I've spent 10+ years designing systems, leading teams, and helping early-stage orgs scale — first as a social worker, then in tech ops (most recently Head of Operations at CodeSpace, which I recently left to do my own thing ✦).
 
-Now I run **Good Content**, where I bring mixed-methods research, systems thinking, a bit of code, and an *unexpectedly useful* social work background to messy business problems — with empathy, analytical rigor, and human insight.
-
 I 💖 to help organizations sharpen their strategic edge through competitive intelligence, organizational design, and AI-enabled strategy. I bring mixed-methods research, systems thinking, coding, and an unexpectedly useful social work background — solving complex business problems with empathy, analytical rigor and human insight.
 
 
