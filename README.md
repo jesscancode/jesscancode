@@ -27,9 +27,7 @@ I help companies:
 - ✦ **Show up in search** and rank with AEO
 - ✦ **Understand their edge** through customer research — WhatsApp, email, real conversations
 
-> Working on Good Content and finding my next role in tech. **Reach out, and let's do some good work.**
-
-I'm open to projects and to my next role. Whether you need content and strategy, real software built with AI tools and automations, or a systems-minded, human-centred operator — I'd love to hear from you.
+I'm open to projects and to my next role. Whether you need content and strategy, real software built with AI tools and automations, or a systems-minded, human-centred operator — **Reach out, and let's do some good work.**
 
 ✦ [jess@creategoodcontent.com](mailto:jess@creategoodcontent.com) · [LinkedIn](https://www.linkedin.com/in/jessklette) · [creategoodcontent.com](https://creategoodcontent.com)
 
