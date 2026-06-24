@@ -24,11 +24,11 @@ Working on Good Content and finding my next best fit in tech. Reach out, and let
 |---|---|
 | **Operations & strategy** | Business strategy · org design · competitive intelligence · GTM · product-market fit |
 | **People & change** | Team leadership · people management · HR + labour relations · change management · crisis intervention |
-| **Research** | Mixed-methods research · customer interviews · competitive positioning |
-| **Content & AEO** | Content strategy · AEO · AI Content Workflows · authority building |
-| **Building with AI** | Systems thinking + real AI tooling and workflows to ship working products. |
+| **Competitive Research** | Mixed-methods research · customer interviews · data analytics · competitive positioning |
+| **Content & AEO** | Content strategy · AEO + authority building · AI Content Workflows |
+| **Building with AI** | Systems thinking + AI tooling and workflows to ship working products. |
 
-## Things I'm building
+## What I'm building
 
 <table>
 <tr>
@@ -39,7 +39,7 @@ Working on Good Content and finding my next best fit in tech. Reach out, and let
 
 **[Get a Job in Tech](https://getajobintech.co.za)**
 
-SA's friendliest tech job board — clean listings, and plain-English summaries. I built the site **and** the self-healing AI enriched data pipeline that feeds it nightly.
+SA's friendliest tech job board — clean listings, and plain-English summaries. I built the site **and** the self-healing AI enriched data pipeline that feeds it daily.
 
 `Next.js` `Supabase` `n8n` `OpenAI`
 
