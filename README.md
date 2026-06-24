@@ -43,7 +43,7 @@ SA's friendliest tech job board — clean listings, and plain-English summaries.
 
 `Next.js` `TypeScript` `Tailwind` `Supabase` `PostgreSQL` `n8n` `OpenAI` `Vercel`
 
-[→ Read the case study](https://github.com/jesscancode/tech-job-scraper-case-study)
+[→ Read the Data Engineering case study](https://github.com/jesscancode/tech-job-scraper-case-study)
 
 </td>
 </tr>
@@ -117,7 +117,7 @@ Semantic search over Pokémon card **art** — find a card by what the picture s
 
 `TCGdex API` `Astro` `Svelte` `Supabase` `pgvector` `OpenAI` `n8n` `Embeddings` `Computer vision`
 
-[→ Read the case study](https://github.com/jesscancode/full-art-case-study)
+[→ Read the Computer Vision case study](https://github.com/jesscancode/full-art-case-study)
 
 
 </td>
