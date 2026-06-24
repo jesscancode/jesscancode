@@ -145,5 +145,5 @@ Semantic search over Pokémon card **art** — find a card by what the picture s
 
 ## Off the clock
 
-Hanging out with my senior dog, Forrest · Neapolitan pizza dough 🍕 · TCG Vending and learning competitive Pokemon TCG · Helldivers 2 (for Managed Democracy) · Engine-building board games like Wingspan · and an *arguably unreasonable* quest to find one specific Pokémon card — Detective Pikachu #098/SV-P. If you have leads, you know what to do.
+Hanging out with my senior dog, Forrest · Obsessing over Neapolitan pizza dough 🍕 · TCG Vending and learning competitive Pokemon TCG · Helldivers 2 (for Managed Democracy) · Engine-building board games like Wingspan · and an *arguably unreasonable* quest to find one specific Pokémon card — Detective Pikachu #098/SV-P. If you have leads, you know what to do.
 
