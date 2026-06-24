@@ -48,7 +48,7 @@ SA's friendliest tech job board — clean listings, and plain-English summaries.
 
 **[The Newsletter](https://www.getajobintech.co.za/newsletter)**
 
-A weekly read on tech jobs worth applying to, career stuff that actually helps, and thoughts on working with machines. For humans building in tech.
+A weekly read on tech jobs worth applying to, career stuff that actually helps, and thoughts on working with machines.
 
 `Weekly` `Free` `SA tech`
 
