@@ -41,7 +41,7 @@ Working on Good Content and finding my next best fit in tech. Reach out, and let
 
 SA's friendliest tech job board — clean listings, and plain-English summaries. I built the site **and** the self-healing AI enriched data pipeline that feeds it daily.
 
-`Next.js` `Supabase` `n8n` `OpenAI`
+`TypeScript` `Supabase` `Tailwind` `Vercel` `Next.js` `n8n` `OpenAI` 
 
 [→ Read the case study](https://github.com/jesscancode/tech-job-scraper-case-study)
 
@@ -115,7 +115,7 @@ A toolkit that makes Claude Code help you become an engineer not just a vibe cod
 
 Semantic search over Pokémon card **art** — find a card by what the picture shows (*"pokemon sleeping"*), not its name. A vision model reads every card; embeddings + pgvector make it searchable. A fun project to help me learn about computer vision and vector databases.
 
-`Computer vision` `Embeddings` `pgvector`
+`Computer vision` `Embeddings` `Astro` `Svelte` `Supabase` `pgvector` `OpenAI` `n8n`
 
 </td>
 </tr>
