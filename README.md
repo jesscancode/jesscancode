@@ -12,11 +12,11 @@
 
 10+ years designing systems, leading teams, and helping early-stage orgs scale — first as a social worker, then in tech ops. Most recently Head of Operations at CodeSpace ✦
 
-Working on Good Content and finding my next best fit in tech. Reach out, and let's do some good work.
-
 ## What I do
 
 I help companies **build smarter products and operations with AI tooling** and **sharpen their strategic edge** through competitive intelligence, organizational design, and good strategy. I bring software dev skills, mixed-methods research, systems thinking, and an unexpectedly useful social work background — solving complex business problems with empathy, and analytical rigor.
+
+Working on Good Content and finding my next best fit in tech. Reach out, and let's do some good work.
 
 ## Things I'm building
 
