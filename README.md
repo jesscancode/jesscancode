@@ -10,7 +10,7 @@
   <a href="mailto:jess@creategoodcontent.com"><img alt="Email" src="https://img.shields.io/badge/Email-D14836.svg?&style=flat-square&logo=gmail&logoColor=white" /></a>
 </p>
 
-10+ years designing systems, leading teams, and helping early-stage orgs scale — first as a social worker, then in tech ops. Most recently Head of Operations at CodeSpace ✦
+10+ years designing systems, leading teams, and helping early-stage orgs scale ✦ first as a social worker, then in tech ops. Most recently Head of Operations at CodeSpace.
 
 ## What I do
 
