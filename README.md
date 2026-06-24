@@ -60,7 +60,7 @@ SA's friendliest tech job board — clean listings, and plain-English summaries.
 
 A weekly read on tech jobs worth applying to, career stuff that actually helps, and thoughts on working with machines.
 
-`Weekly` `Free` `SA tech`
+`Fresh SA tech jobs` `Essential tech news` `Career resources that work` `Future of work` `Founder interviews` `Tools to level up`
 
 [→ Subscribe](https://www.getajobintech.co.za/newsletter)
 
