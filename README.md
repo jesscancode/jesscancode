@@ -1,8 +1,7 @@
-<h1 align="center">Hey, nice to see you ✦</h1>
+<h1 align="center">hey, i'm jess ✦</h1>
 
 <p align="center">
-  I'm <b>Jess</b> — Strategic Operator &amp; Social Worker.<br/>
-  Founder of <a href="https://creategoodcontent.com"><b>Good Content ✦</b></a> and <a href="https://getajobintech.co.za"><b>Get a Job in Tech</b></a> · Mthatha → Cape Town
+  Strategic Operator · Social Worker → Tech · Cape Town
 </p>
 
 <p align="center">
@@ -11,80 +10,121 @@
   <a href="mailto:jess@creategoodcontent.com"><img alt="Email" src="https://img.shields.io/badge/Email-D14836.svg?&style=flat-square&logo=gmail&logoColor=white" /></a>
 </p>
 
----
+10+ years designing systems, leading teams, and helping early-stage orgs scale — first as a social worker, then in tech ops. Most recently Head of Operations at CodeSpace; now doing my own thing ✦
 
-I've spent 10+ years designing systems, leading teams, and helping early-stage orgs scale — first as a social worker, then in tech ops (most recently Head of Operations at CodeSpace, which I recently left to do my own thing ✦).
-
-I 💖 to help organizations sharpen their strategic edge through competitive intelligence, organizational design, and AI-enabled strategy. I bring mixed-methods research, systems thinking, coding, and an unexpectedly useful social work background — solving complex business problems with empathy, analytical rigor and human insight.
+I bring mixed-methods research, systems thinking, and an unexpectedly useful social work background to complex business problems. Currently open to projects and my next role — reach out, and let's do some good work.
 
 
-### The main quest — Good Content
+## What I do
 
-I help companies:
+I help companies **build smarter products and operations with AI tools**, create content strategies that actually last, show up in search with AEO, and understand their edge through real customer research — WhatsApp, email, real conversations.
 
-- ✦ **Build smarter** products and operations with AI tools 
-- ✦ **Create content strategies** that actually last
-- ✦ **Show up in search** and rank with AEO
-- ✦ **Understand their edge** through customer research — WhatsApp, email, real conversations
 
-I'm open to projects and to my next role. Whether you need content and strategy, real software built with AI tools and automations, or a systems-minded, human-centred operator — **Reach out, and let's do some good work.**
-
-✦ [jess@creategoodcontent.com](mailto:jess@creategoodcontent.com) · [LinkedIn](https://www.linkedin.com/in/jessklette) · [creategoodcontent.com](https://creategoodcontent.com)
-
-### Side quests
-
-> Three things I'm building right now.
+## Things I'm building
 
 <table>
 <tr>
-<td width="33%" valign="top" align="center">
+<td width="40%" valign="top">
+<img src="./images/demo.gif" alt="Get a Job in Tech demo" width="100%" />
+</td>
+<td width="60%" valign="top">
 
 **[Get a Job in Tech](https://getajobintech.co.za)**
 
-SA's friendliest tech job board — clean listings, plain-English summaries, and honest green / orange flags. I built the site **and** the self-healing AI pipeline that feeds it.
+SA's friendliest tech job board — clean listings, plain-English summaries, and honest green/orange flags. I built the site **and** the self-healing AI pipeline that feeds it nightly.
 
-`Next.js` · `Supabase` · `n8n` · `OpenAI`
+`Next.js` `Supabase` `n8n` `OpenAI`
+
+[→ Read the case study](https://github.com/jesscancode/tech-job-scraper-case-study)
 
 </td>
-<td width="33%" valign="top" align="center">
+</tr>
+<tr><td colspan="2"><br></td></tr>
+<tr>
+<td width="40%" valign="top">
+
+<!-- add gif/screenshot: <img src="./images/newsletter.png" alt="Newsletter preview" width="100%" /> -->
+
+</td>
+<td width="60%" valign="top">
+
+**[The Newsletter](https://www.getajobintech.co.za/newsletter)**
+
+A weekly read on tech jobs worth applying to, career stuff that actually helps, and thoughts on working with machines. For humans building in tech.
+
+`Weekly` `Free` `SA tech`
+
+[→ Subscribe](https://www.getajobintech.co.za/newsletter)
+
+</td>
+</tr>
+<tr><td colspan="2"><br></td></tr>
+<tr>
+<td width="40%" valign="top">
+
+<!-- add gif/screenshot: <img src="./images/good-content.png" alt="Good Content" width="100%" /> -->
+
+</td>
+<td width="60%" valign="top">
+
+**[Good Content ✦](https://creategoodcontent.com)**
+
+AI ops and strategy consultancy — helping companies build smarter with AI tools, create content strategies that last, and understand their edge through real customer research.
+
+`AI strategy` `Content` `Ops`
+
+[→ creategoodcontent.com](https://creategoodcontent.com) · [Email](mailto:jess@creategoodcontent.com) · [WhatsApp](https://wa.me/27725449049)
+
+</td>
+</tr>
+<tr><td colspan="2"><br></td></tr>
+<tr>
+<td width="40%" valign="top">
+
+<!-- add gif: <img src="./images/claude-like-an-engineer.png" alt="claude-like-an-engineer demo" width="100%" /> -->
+
+</td>
+<td width="60%" valign="top">
 
 **claude-like-an-engineer**
 
-A toolkit that makes AI coding tools behave like a careful teammate. Really it's about **learning as you build** — for new developers and product people shipping safe, scalable software with AI.
+A toolkit that makes AI coding tools behave like a careful teammate. Really about **learning as you build** — for new developers and product people shipping safe, scalable software with AI.
 
-`AI workflows` · `Node` · `Git`
+`AI workflows` `Node` `Git`
 
 </td>
-<td width="33%" valign="top" align="center">
+</tr>
+<tr><td colspan="2"><br></td></tr>
+<tr>
+<td width="40%" valign="top">
+
+<!-- add gif: <img src="./images/full-art.gif" alt="Full Art demo" width="100%" /> -->
+
+</td>
+<td width="60%" valign="top">
 
 **Full Art**
 
-Semantic search over Pokémon card **art** — find a card by what the picture shows (*"pikachu in the rain"*), not its name. A vision model "reads" every card; embeddings + pgvector make it searchable. Born from my own card hunt.
+Semantic search over Pokémon card **art** — find a card by what the picture shows (*"pikachu in the rain"*), not its name. A vision model reads every card; embeddings + pgvector make it searchable. Born from my own card hunt.
 
-`Computer vision` · `Embeddings` · `pgvector`
+`Computer vision` `Embeddings` `pgvector`
 
 </td>
 </tr>
 </table>
 
-<!-- TIP: Pin these repos so the cards link automatically. Add the claude-like-an-engineer + Full Art repo URLs once they're public, and a screenshot per card would make this section pop. -->
 
-### Coming soon — the newsletter
-
-I'm starting a **weekly newsletter** about what I'm building, breaking, and learning in public — AI, content, SA tech, and the occasional side quest. [Follow me on LinkedIn](https://www.linkedin.com/in/jessklette) so you don't miss it.
-
-<!-- TODO: swap the LinkedIn link above for the newsletter signup URL once it's live. -->
-
-### What I bring
+## What I bring
 
 | | |
 |---|---|
-| **Operations & strategy** | Operational & business strategy · org design · competitive intelligence · GTM · product-market fit |
-| **People & change** | Team leadership · people management · change management & crisis intervention · stakeholder engagement |
+| **Operations & strategy** | Business strategy · org design · competitive intelligence · GTM · product-market fit |
+| **People & change** | Team leadership · people management · change management · crisis intervention · stakeholder engagement |
 | **Research & content** | Mixed-methods research · content strategy · AEO · learning experience design · behaviour-change design |
-| **Building with AI** | Systems thinking + AI tools to ship real products — yes, actual working code |
+| **Building with AI** | Systems thinking + real AI tools to ship working products — actual code, not slides |
 
-### Building with
+
+## Building with
 
 <p>
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
@@ -104,10 +144,10 @@ I'm starting a **weekly newsletter** about what I'm building, breaking, and lear
 </p>
 
 
-### Off the clock
+## Off the clock
 
-Dogs · Neapolitan pizza dough 🍕 · Helldivers 2 (for Managed Democracy) · engine-building board games · and an *arguably unreasonable* quest to find one specific Pokémon card (Detective Pikachu #098/SV-P — look how cute).
+Dogs · Neapolitan pizza dough 🍕 · Helldivers 2 (for Managed Democracy) · engine-building board games · and an *arguably unreasonable* quest to find one specific Pokémon card — Detective Pikachu #098/SV-P. If you have leads, you know what to do.
 
----
 
-<p align="center"><i>Figuring it out, switching lanes, or helping others do the same? Let's connect. ✦</i></p>
+<p align="center"><i>Figuring it out, switching lanes, or helping others do the same? Let's connect. ✦</i><br>
+<a href="mailto:jess@creategoodcontent.com">jess@creategoodcontent.com</a> · <a href="https://www.linkedin.com/in/jessklette">LinkedIn</a> · <a href="https://creategoodcontent.com">creategoodcontent.com</a></p>
