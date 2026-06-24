@@ -98,7 +98,7 @@ AI ops and strategy consultancy — helping companies build smarter products and
 
 A toolkit that makes Claude Code help you become an engineer not just a vibe coder. Really about **learning as you build** — for new developers and product people shipping safe, scalable software with AI.
 
-`AI workflows` `Node` `Git`
+`Claude Code` `AI workflows` `Node` `Git`
 
 </td>
 </tr>
