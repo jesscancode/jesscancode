@@ -119,9 +119,10 @@ Semantic search over Pokémon card **art** — find a card by what the picture s
 | | |
 |---|---|
 | **Operations & strategy** | Business strategy · org design · competitive intelligence · GTM · product-market fit |
-| **People & change** | Team leadership · people management · change management · crisis intervention · stakeholder engagement |
-| **Research & content** | Mixed-methods research · content strategy · AEO · learning experience design · behaviour-change design |
-| **Building with AI** | Systems thinking + real AI tools to ship working products — actual code, not slides |
+| **People & change** | Team leadership · people management · HR + labour relations · change management · crisis intervention |
+| **Research** | Mixed-methods research · customer interviews · competitive positioning |
+| **Content & AEO** | Content strategy · AEO · AI Content Workflows · authority building |
+| **Building with AI** | Systems thinking + real AI tooling and workflows to ship working products. |
 
 
 ## Building with
