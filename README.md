@@ -41,7 +41,7 @@ Working on Good Content and finding my next best fit in tech. Reach out, and let
 
 SA's friendliest tech job board — clean listings, and plain-English summaries. I built the site **and** the self-healing AI enriched data pipeline that feeds it daily.
 
-`TypeScript` `Supabase` `Tailwind` `Vercel` `Next.js` `n8n` `OpenAI` 
+`Next.js` `TypeScript` `Tailwind` `Supabase` `PostgreSQL` `n8n` `OpenAI` `Vercel`
 
 [→ Read the case study](https://github.com/jesscancode/tech-job-scraper-case-study)
 
@@ -79,7 +79,7 @@ A weekly read on tech jobs worth applying to, career stuff that actually helps, 
 
 AI ops and strategy consultancy — helping companies build smarter products and operations with competitive intelligence research and AI tooling.
 
-`AI strategy` `Content` `Ops`
+`AI tooling + automation` `Content strategy` `AEO + authority building` `Competitive intelligence + customer research` `Org design` `GTM`
 
 [→ creategoodcontent.com](https://creategoodcontent.com) · [Email](mailto:jess@creategoodcontent.com) · [WhatsApp](https://wa.me/27725449049)
 
