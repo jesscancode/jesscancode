@@ -18,6 +18,16 @@ I help companies **build smarter products and operations with AI tooling** and *
 
 Working on Good Content and finding my next best fit in tech. Reach out, and let's do some good work.
 
+## What I bring
+
+| | |
+|---|---|
+| **Operations & strategy** | Business strategy · org design · competitive intelligence · GTM · product-market fit |
+| **People & change** | Team leadership · people management · HR + labour relations · change management · crisis intervention |
+| **Research** | Mixed-methods research · customer interviews · competitive positioning |
+| **Content & AEO** | Content strategy · AEO · AI Content Workflows · authority building |
+| **Building with AI** | Systems thinking + real AI tooling and workflows to ship working products. |
+
 ## Things I'm building
 
 <table>
@@ -110,18 +120,6 @@ Semantic search over Pokémon card **art** — find a card by what the picture s
 </td>
 </tr>
 </table>
-
-
-## What I bring
-
-| | |
-|---|---|
-| **Operations & strategy** | Business strategy · org design · competitive intelligence · GTM · product-market fit |
-| **People & change** | Team leadership · people management · HR + labour relations · change management · crisis intervention |
-| **Research** | Mixed-methods research · customer interviews · competitive positioning |
-| **Content & AEO** | Content strategy · AEO · AI Content Workflows · authority building |
-| **Building with AI** | Systems thinking + real AI tooling and workflows to ship working products. |
-
 
 ## Building with
 
