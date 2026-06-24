@@ -29,7 +29,7 @@ Working on Good Content and finding my next best fit in tech. Reach out, and let
 
 **[Get a Job in Tech](https://getajobintech.co.za)**
 
-SA's friendliest tech job board — clean listings, plain-English summaries, and honest green/orange flags. I built the site **and** the self-healing AI pipeline that feeds it nightly.
+SA's friendliest tech job board — clean listings, and plain-English summaries. I built the site **and** the self-healing AI enriched data pipeline that feeds it nightly.
 
 `Next.js` `Supabase` `n8n` `OpenAI`
 
@@ -67,7 +67,7 @@ A weekly read on tech jobs worth applying to, career stuff that actually helps, 
 
 **[Good Content ✦](https://creategoodcontent.com)**
 
-AI ops and strategy consultancy — helping companies build smarter with AI tools, create content strategies that last, and understand their edge through real customer research.
+AI ops and strategy consultancy — helping companies build smarter products and operations with competitive intelligence research and AI tooling.
 
 `AI strategy` `Content` `Ops`
 
