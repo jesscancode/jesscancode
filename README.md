@@ -43,7 +43,7 @@ SA's friendliest tech job board — clean listings, plain-English summaries, and
 <tr>
 <td width="40%" valign="top">
 
-<img src="./images/newsletter.png" alt="Newsletter preview" width="100%"
+<img src="./images/newsletter.png" alt="Newsletter preview" width="100%"/>
 
 </td>
 <td width="60%" valign="top">
