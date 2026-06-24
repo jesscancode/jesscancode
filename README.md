@@ -17,7 +17,7 @@ I bring software dev skills, mixed-methods research, systems thinking, and an un
 
 ## What I do
 
-I help companies **build smarter products and operations with AI tools**, create content strategies that actually last, show up in search with AEO, and understand their edge through real customer research — WhatsApp, email, real conversations.
+I help companies **build smarter products and operations with AI tools**, create content strategies that actually last, show up in search with AEO, and understand their edge through real customer research.
 
 
 ## Things I'm building
