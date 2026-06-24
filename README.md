@@ -103,7 +103,7 @@ A toolkit that makes Claude Code help you become an engineer not just a vibe cod
 
 **Full Art**
 
-Semantic search over Pokémon card **art** — find a card by what the picture shows (*"pikachu in the rain"*), not its name. A vision model reads every card; embeddings + pgvector make it searchable. Born from my own card hunt.
+Semantic search over Pokémon card **art** — find a card by what the picture shows (*"pokemon sleeping"*), not its name. A vision model reads every card; embeddings + pgvector make it searchable. A fun project to help me learn about computer vision and vector databases.
 
 `Computer vision` `Embeddings` `pgvector`
 
