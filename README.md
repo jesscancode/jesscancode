@@ -115,7 +115,7 @@ A toolkit that makes Claude Code help you become an engineer not just a vibe cod
 
 Semantic search over Pokémon card **art** — find a card by what the picture shows (*"pokemon sleeping"*), not its name. A vision model reads every card; embeddings + pgvector make it searchable. A fun project to help me learn about computer vision and vector databases.
 
-`Computer vision` `Embeddings` `Astro` `Svelte` `Supabase` `pgvector` `OpenAI` `n8n`
+`Astro` `Svelte` `Supabase` `pgvector` `OpenAI` `n8n` `Embeddings` `Computer vision`
 
 </td>
 </tr>
