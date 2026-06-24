@@ -86,9 +86,9 @@ AI ops and strategy consultancy — helping companies build smarter with AI tool
 </td>
 <td width="60%" valign="top">
 
-**claude-like-an-engineer**
+**claude-like-a-baby-engineer**
 
-A toolkit that makes AI coding tools behave like a careful teammate. Really about **learning as you build** — for new developers and product people shipping safe, scalable software with AI.
+A toolkit that makes Claude Code help you become an engineer not just a vibe coder. Really about **learning as you build** — for new developers and product people shipping safe, scalable software with AI.
 
 `AI workflows` `Node` `Git`
 
@@ -146,8 +146,5 @@ Semantic search over Pokémon card **art** — find a card by what the picture s
 
 ## Off the clock
 
-Dogs · Neapolitan pizza dough 🍕 · Helldivers 2 (for Managed Democracy) · engine-building board games · and an *arguably unreasonable* quest to find one specific Pokémon card — Detective Pikachu #098/SV-P. If you have leads, you know what to do.
+Hanging out with my senior dog, Forrest · Neapolitan pizza dough 🍕 · TCG Vending and learning competitive Pokemon TCG · Helldivers 2 (for Managed Democracy) · Engine-building board games like Wingspan · and an *arguably unreasonable* quest to find one specific Pokémon card — Detective Pikachu #098/SV-P. If you have leads, you know what to do.
 
-
-<p align="center"><i>Figuring it out, switching lanes, or helping others do the same? Let's connect. ✦</i><br>
-<a href="mailto:jess@creategoodcontent.com">jess@creategoodcontent.com</a> · <a href="https://www.linkedin.com/in/jessklette">LinkedIn</a> · <a href="https://creategoodcontent.com">creategoodcontent.com</a></p>
