@@ -14,7 +14,7 @@
 
 ## What I do
 
-I help companies **build smarter products and operations with AI tooling** and **sharpen their strategic edge** through competitive intelligence, organizational design, and good strategy. I bring software dev skills, mixed-methods research, systems thinking, and an unexpectedly useful social work background — solving complex business problems with empathy, and analytical rigor.
+I help companies **build smarter products and operations with AI tooling** and **sharpen their strategic edge** through competitive intelligence, organizational design, and good product strategy. I bring software dev skills, mixed-methods research, systems thinking, and an unexpectedly useful social work background — solving complex business problems with empathy, and analytical rigor.
 
 Working on 'Get a Job in Tech' and finding my next best fit in tech. Reach out, and let's do some good work.
 
