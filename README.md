@@ -1,7 +1,7 @@
 <h1 align="center">hey, i'm jess ✦</h1>
 
 <p align="center">
-  Strategic Operator · Social Worker → Tech · Cape Town
+  Strategic Operator · Social Worker to AI Engineer · Cape Town
 </p>
 
 <p align="center">
