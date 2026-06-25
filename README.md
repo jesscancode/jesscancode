@@ -19,8 +19,6 @@ I help companies **build smarter products and operations with AI tooling** and *
 Working on Good Content and finding my next best fit in tech. Reach out, and let's do some good work.
 
 ## What I'm building
-
-Currently building with:
 <p>
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
   <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
