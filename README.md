@@ -50,6 +50,32 @@ SA's friendliest tech job board — clean listings, and plain-English summaries.
 <tr>
 <td width="40%" valign="top">
 
+<img src="./images/research-case-study.gif" alt="Customer research & competitive intelligence case study demo" width="100%" />
+
+</td>
+<td width="60%" valign="top">
+
+**[Customer Research & Competitive Intelligence](https://github.com/jesscancode/research-case-study)**
+
+Deep customer research and competitive intelligence for a major SA property brand — what drives customer choice, and who they *really* compete with. I led it end to end: survey design, **national-scale WhatsApp fielding** (which beat email 6:1), Python analysis, and AI-assisted thematic synthesis of hundreds of open-ended responses. ~2,100 respondents across two surveys.
+
+<img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img alt="pandas" src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+<img alt="OpenAI" src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
+<img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white" />
+<img alt="Mixed-methods research" src="https://img.shields.io/badge/Mixed--methods%20research-1a1a1a?style=flat-square" />
+<img alt="Competitive intelligence" src="https://img.shields.io/badge/Competitive%20intelligence-1a1a1a?style=flat-square" />
+<img alt="Thematic analysis" src="https://img.shields.io/badge/Thematic%20analysis-1a1a1a?style=flat-square" />
+<img alt="Survey design + NPS" src="https://img.shields.io/badge/Survey%20design%20%2B%20NPS-1a1a1a?style=flat-square" />
+
+[→ Read the Customer Research case study](https://github.com/jesscancode/research-case-study)
+
+</td>
+</tr>
+<tr><td colspan="2"><br></td></tr>
+<tr>
+<td width="40%" valign="top">
+
 <img src="./images/newsletter.png" alt="Newsletter preview" width="100%"/>
 
 </td>
@@ -139,11 +165,9 @@ Semantic search over Pokémon card **art** — find a card by what the picture s
 
 [→ Read the Computer Vision case study](https://github.com/jesscancode/full-art-case-study)
 
-
 </td>
 </tr>
 </table>
-
 
 ## What I bring
 
