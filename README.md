@@ -30,7 +30,7 @@ Working on 'Get a Job in Tech' and finding my next best fit in tech. Reach out, 
 
 **[Get a Job in Tech](https://getajobintech.co.za)**
 
-SA's friendliest tech job board — clean listings, and plain-English summaries. I built the site **and** the self-healing AI enriched data pipeline that feeds it daily.
+SA's friendliest tech job board ✦ clean listings and plain-English summaries. I built the site **and** the self-healing AI enriched data pipeline that feeds it daily.
 
 <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
 <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
@@ -57,7 +57,7 @@ SA's friendliest tech job board — clean listings, and plain-English summaries.
 
 **[Customer Research & Competitive Intelligence](https://github.com/jesscancode/research-case-study)**
 
-Deep customer research and competitive intelligence for a major SA property brand — what drives customer choice, and who they *really* compete with. I led it end to end: survey design, **national-scale WhatsApp fielding** (which beat email 6:1), Python analysis, and AI-assisted thematic synthesis of hundreds of open-ended responses. ~2,100 respondents across two surveys.
+Deep customer research and competitive intelligence for a major SA property brand ✦ what drives customer choice, and who they *really* compete with. I led it end to end: survey design, **national-scale WhatsApp fielding** (which beat email 6:1), Python analysis, and AI-assisted thematic synthesis of hundreds of open-ended responses. ~2,100 respondents across two surveys.
 
 <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
 <img alt="pandas" src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
@@ -107,7 +107,7 @@ A weekly read on tech jobs worth applying to, career stuff that actually helps, 
 
 **[Good Content ✦](https://creategoodcontent.com)**
 
-AI ops and product strategy — helping companies build smarter products and operations with competitive intelligence research and AI tooling.
+AI ops and product strategy ✦ helping companies build smarter products and operations with competitive intelligence research and AI tooling.
 
 <img alt="AI tooling + automation" src="https://img.shields.io/badge/AI%20tooling%20%2B%20automation-1a1a1a?style=flat-square" />
 <img alt="Content strategy" src="https://img.shields.io/badge/Content%20strategy-1a1a1a?style=flat-square" />
