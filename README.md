@@ -10,17 +10,25 @@
   <a href="mailto:jess@creategoodcontent.com"><img alt="Email" src="https://img.shields.io/badge/Email-D14836.svg?&style=flat-square&logo=gmail&logoColor=white" /></a>
 </p>
 
-10+ years designing systems, leading teams, and helping early-stage orgs scale — first as a social worker, then in tech ops. Most recently Head of Operations at CodeSpace; now doing my own thing ✦
-
-I bring mixed-methods research, systems thinking, and an unexpectedly useful social work background to complex business problems. Currently open to projects and my next role — reach out, and let's do some good work.
-
+10+ years designing systems, leading teams, and helping early-stage orgs scale ✦ first as a social worker, then in tech ops. Most recently as Head of Operations at CodeSpace.
 
 ## What I do
 
-I help companies **build smarter products and operations with AI tools**, create content strategies that actually last, show up in search with AEO, and understand their edge through real customer research — WhatsApp, email, real conversations.
+I help companies **build smarter products and operations with AI tooling** and **sharpen their strategic edge** through competitive intelligence, organizational design, and good strategy. I bring software dev skills, mixed-methods research, systems thinking, and an unexpectedly useful social work background — solving complex business problems with empathy, and analytical rigor.
 
+Working on Good Content and finding my next best fit in tech. Reach out, and let's do some good work.
 
-## Things I'm building
+## What I bring
+
+| | |
+|---|---|
+| **Operations & strategy** | Business strategy · org design · competitive intelligence · GTM · product-market fit |
+| **People & change** | Team leadership · people management · HR + labour relations · change management · crisis intervention |
+| **Competitive Research** | Mixed-methods research · customer interviews · data analytics · competitive positioning |
+| **Content & AEO** | Content strategy · AEO + authority building · AI Content Workflows |
+| **Building with AI** | Systems thinking + AI tooling and workflows to ship working products. |
+
+## What I'm building
 
 <table>
 <tr>
@@ -31,11 +39,11 @@ I help companies **build smarter products and operations with AI tools**, create
 
 **[Get a Job in Tech](https://getajobintech.co.za)**
 
-SA's friendliest tech job board — clean listings, plain-English summaries, and honest green/orange flags. I built the site **and** the self-healing AI pipeline that feeds it nightly.
+SA's friendliest tech job board — clean listings, and plain-English summaries. I built the site **and** the self-healing AI enriched data pipeline that feeds it daily.
 
-`Next.js` `Supabase` `n8n` `OpenAI`
+`Next.js` `TypeScript` `Tailwind` `Supabase` `PostgreSQL` `n8n` `OpenAI` `Vercel`
 
-[→ Read the case study](https://github.com/jesscancode/tech-job-scraper-case-study)
+[→ Read the Data Engineering case study](https://github.com/jesscancode/tech-job-scraper-case-study)
 
 </td>
 </tr>
@@ -43,16 +51,16 @@ SA's friendliest tech job board — clean listings, plain-English summaries, and
 <tr>
 <td width="40%" valign="top">
 
-<!-- add gif/screenshot: <img src="./images/newsletter.png" alt="Newsletter preview" width="100%" /> -->
+<img src="./images/newsletter.png" alt="Newsletter preview" width="100%"/>
 
 </td>
 <td width="60%" valign="top">
 
 **[The Newsletter](https://www.getajobintech.co.za/newsletter)**
 
-A weekly read on tech jobs worth applying to, career stuff that actually helps, and thoughts on working with machines. For humans building in tech.
+A weekly read on tech jobs worth applying to, career stuff that actually helps, and thoughts on working with machines.
 
-`Weekly` `Free` `SA tech`
+`fresh SA tech jobs` `essential tech news` `career resources that work` `future of work trends` `founder interviews` `tools to level up`
 
 [→ Subscribe](https://www.getajobintech.co.za/newsletter)
 
@@ -62,16 +70,16 @@ A weekly read on tech jobs worth applying to, career stuff that actually helps, 
 <tr>
 <td width="40%" valign="top">
 
-<!-- add gif/screenshot: <img src="./images/good-content.png" alt="Good Content" width="100%" /> -->
+<img src="./images/good-content.png" alt="Good Content" width="100%" /> 
 
 </td>
 <td width="60%" valign="top">
 
 **[Good Content ✦](https://creategoodcontent.com)**
 
-AI ops and strategy consultancy — helping companies build smarter with AI tools, create content strategies that last, and understand their edge through real customer research.
+AI ops and strategy consultancy — helping companies build smarter products and operations with competitive intelligence research and AI tooling.
 
-`AI strategy` `Content` `Ops`
+`AI tooling + automation` `Content strategy` `AEO + authority building` `Competitive intelligence + customer research` `Org design` `GTM`
 
 [→ creategoodcontent.com](https://creategoodcontent.com) · [Email](mailto:jess@creategoodcontent.com) · [WhatsApp](https://wa.me/27725449049)
 
@@ -86,11 +94,11 @@ AI ops and strategy consultancy — helping companies build smarter with AI tool
 </td>
 <td width="60%" valign="top">
 
-**claude-like-an-engineer**
+**claude-like-a-baby-engineer**
 
-A toolkit that makes AI coding tools behave like a careful teammate. Really about **learning as you build** — for new developers and product people shipping safe, scalable software with AI.
+A toolkit that makes Claude Code help you become an engineer not just a vibe coder. Really about **learning as you build** — for new developers and product people shipping safe, scalable software with AI.
 
-`AI workflows` `Node` `Git`
+`Claude Code` `AI workflows` `Node` `Git`
 
 </td>
 </tr>
@@ -98,31 +106,23 @@ A toolkit that makes AI coding tools behave like a careful teammate. Really abou
 <tr>
 <td width="40%" valign="top">
 
-<!-- add gif: <img src="./images/full-art.gif" alt="Full Art demo" width="100%" /> -->
+<img src="./images/full-art.png" alt="Full Art demo" width="100%" />
 
 </td>
 <td width="60%" valign="top">
 
-**Full Art**
+**Full Art** ✦ Launching in July 2026
 
-Semantic search over Pokémon card **art** — find a card by what the picture shows (*"pikachu in the rain"*), not its name. A vision model reads every card; embeddings + pgvector make it searchable. Born from my own card hunt.
+Semantic search over Pokémon card **art** — find a card by what the picture shows (*"pokemon sleeping"*), not its name. A vision model reads every card; embeddings + pgvector make it searchable. A fun project to help me learn about computer vision and vector databases.
 
-`Computer vision` `Embeddings` `pgvector`
+`TCGdex API` `Astro` `Svelte` `Supabase` `pgvector` `OpenAI` `n8n` `Embeddings` `Computer vision`
+
+[→ Read the Computer Vision case study](https://github.com/jesscancode/full-art-case-study)
+
 
 </td>
 </tr>
 </table>
-
-
-## What I bring
-
-| | |
-|---|---|
-| **Operations & strategy** | Business strategy · org design · competitive intelligence · GTM · product-market fit |
-| **People & change** | Team leadership · people management · change management · crisis intervention · stakeholder engagement |
-| **Research & content** | Mixed-methods research · content strategy · AEO · learning experience design · behaviour-change design |
-| **Building with AI** | Systems thinking + real AI tools to ship working products — actual code, not slides |
-
 
 ## Building with
 
@@ -146,8 +146,5 @@ Semantic search over Pokémon card **art** — find a card by what the picture s
 
 ## Off the clock
 
-Dogs · Neapolitan pizza dough 🍕 · Helldivers 2 (for Managed Democracy) · engine-building board games · and an *arguably unreasonable* quest to find one specific Pokémon card — Detective Pikachu #098/SV-P. If you have leads, you know what to do.
+Hanging out with my senior dog, Forrest · Obsessing over Neapolitan pizza dough 🍕 · TCG Vending and learning competitive Pokemon TCG · Helldivers 2 (for Managed Democracy) · Engine-building board games like Wingspan · and an *arguably unreasonable* quest to find one specific Pokémon card — Detective Pikachu #098/SV-P. If you have leads, you know what to do.
 
-
-<p align="center"><i>Figuring it out, switching lanes, or helping others do the same? Let's connect. ✦</i><br>
-<a href="mailto:jess@creategoodcontent.com">jess@creategoodcontent.com</a> · <a href="https://www.linkedin.com/in/jessklette">LinkedIn</a> · <a href="https://creategoodcontent.com">creategoodcontent.com</a></p>
