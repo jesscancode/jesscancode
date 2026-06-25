@@ -14,7 +14,7 @@
 
 ## What I do
 
-I help companies **build smarter products and operations with AI tooling** and **sharpen their strategic edge** through competitive intelligence, organizational design, and good product strategy. I bring software dev skills, mixed-methods research, systems thinking, and an unexpectedly useful social work background — solving complex business problems with empathy, and analytical rigor.
+I help companies **build smarter products and operations with AI tooling** and **sharpen their strategic edge** through competitive intelligence, organizational design, and good product strategy. I bring software dev skills, mixed-methods research, systems thinking, and an unexpectedly useful social work background ✦ solving complex business problems with empathy, and analytical rigor.
 
 Working on 'Get a Job in Tech' and finding my next best fit in tech. Reach out, and let's do some good work.
 
@@ -107,7 +107,7 @@ A weekly read on tech jobs worth applying to, career stuff that actually helps, 
 
 **[Good Content ✦](https://creategoodcontent.com)**
 
-AI ops and strategy consultancy — helping companies build smarter products and operations with competitive intelligence research and AI tooling.
+AI ops and product strategy — helping companies build smarter products and operations with competitive intelligence research and AI tooling.
 
 <img alt="AI tooling + automation" src="https://img.shields.io/badge/AI%20tooling%20%2B%20automation-1a1a1a?style=flat-square" />
 <img alt="Content strategy" src="https://img.shields.io/badge/Content%20strategy-1a1a1a?style=flat-square" />
