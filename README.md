@@ -18,16 +18,6 @@ I help companies **build smarter products and operations with AI tooling** and *
 
 Working on Good Content and finding my next best fit in tech. Reach out, and let's do some good work.
 
-## What I bring
-
-| | |
-|---|---|
-| **Operations & strategy** | Business strategy · org design · competitive intelligence · GTM · product-market fit |
-| **People & change** | Team leadership · people management · HR + labour relations · change management · crisis intervention |
-| **Competitive Research** | Mixed-methods research · customer interviews · data analytics · competitive positioning |
-| **Content & AEO** | Content strategy · AEO + authority building · AI Content Workflows |
-| **Building with AI** | Systems thinking + AI tooling and workflows to ship working products. |
-
 ## What I'm building
 
 <table>
@@ -143,6 +133,15 @@ Semantic search over Pokémon card **art** — find a card by what the picture s
   <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
 </p>
 
+## What I bring
+
+| | |
+|---|---|
+| **Operations & strategy** | Business strategy · org design · competitive intelligence · GTM · product-market fit |
+| **People & change** | Team leadership · people management · HR + labour relations · change management · crisis intervention |
+| **Competitive Research** | Mixed-methods research · customer interviews · data analytics · competitive positioning |
+| **Content & AEO** | Content strategy · AEO + authority building · AI Content Workflows |
+| **Building with AI** | Systems thinking + AI tooling and workflows to ship working products. |
 
 ## Off the clock
 
