@@ -106,7 +106,7 @@ A toolkit that makes Claude Code help you become an engineer not just a vibe cod
 <tr>
 <td width="40%" valign="top">
 
-<!-- add gif: <img src="./images/full-art.gif" alt="Full Art demo" width="100%" /> -->
+<img src="./images/full-art.png" alt="Full Art demo" width="100%" />
 
 </td>
 <td width="60%" valign="top">
