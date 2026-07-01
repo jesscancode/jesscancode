@@ -106,36 +106,6 @@ SA's friendliest tech job board ✦ clean listings and plain-English summaries. 
 <tr><td colspan="2"><br></td></tr>
 <!-- ROW END: Get a Job in Tech -->
 
-<!-- ROW START: Full Art -->
-<tr>
-<td width="40%" valign="top">
-
-<img src="./images/full-art.png" alt="Full Art demo" width="100%" />
-
-</td>
-<td width="60%" valign="top">
-
-**Full Art** ✦ Launching in July 2026
-
-Semantic search over Pokémon card **art** — find a card by what the picture shows (*"pokemon sleeping"*), not its name. A vision model reads every card; embeddings + pgvector make it searchable. A fun project to help me learn about computer vision and vector databases.
-
-<img alt="TCGdex API" src="https://img.shields.io/badge/TCGdex%20API-1a1a1a?style=flat-square" />
-<img alt="Astro" src="https://img.shields.io/badge/Astro-BC52EE?style=flat-square&logo=astro&logoColor=white" />
-<img alt="Svelte" src="https://img.shields.io/badge/Svelte-FF3E00?style=flat-square&logo=svelte&logoColor=white" />
-<img alt="Supabase" src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" />
-<img alt="pgvector" src="https://img.shields.io/badge/pgvector-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-<img alt="OpenAI" src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
-<img alt="n8n" src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" />
-<img alt="Embeddings" src="https://img.shields.io/badge/Embeddings-1a1a1a?style=flat-square" />
-<img alt="Computer vision" src="https://img.shields.io/badge/Computer%20vision-1a1a1a?style=flat-square" />
-
-[→ Read the Computer Vision case study](https://github.com/jesscancode/full-art-case-study)
-
-</td>
-</tr>
-<tr><td colspan="2"><br></td></tr>
-<!-- ROW END: Full Art -->
-
 <!-- ROW START: The Newsletter -->
 <tr>
 <td width="40%" valign="top">
@@ -189,6 +159,36 @@ AI ops and product strategy ✦ helping companies build smarter products and ope
 </tr>
 <tr><td colspan="2"><br></td></tr>
 <!-- ROW END: Good Content -->
+
+<!-- ROW START: Full Art -->
+<tr>
+<td width="40%" valign="top">
+
+<img src="./images/full-art.png" alt="Full Art demo" width="100%" />
+
+</td>
+<td width="60%" valign="top">
+
+**Full Art** ✦ Launching in July 2026
+
+Semantic search over Pokémon card **art** — find a card by what the picture shows (*"pokemon sleeping"*), not its name. A vision model reads every card; embeddings + pgvector make it searchable. A fun project to help me learn about computer vision and vector databases.
+
+<img alt="TCGdex API" src="https://img.shields.io/badge/TCGdex%20API-1a1a1a?style=flat-square" />
+<img alt="Astro" src="https://img.shields.io/badge/Astro-BC52EE?style=flat-square&logo=astro&logoColor=white" />
+<img alt="Svelte" src="https://img.shields.io/badge/Svelte-FF3E00?style=flat-square&logo=svelte&logoColor=white" />
+<img alt="Supabase" src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" />
+<img alt="pgvector" src="https://img.shields.io/badge/pgvector-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+<img alt="OpenAI" src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
+<img alt="n8n" src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" />
+<img alt="Embeddings" src="https://img.shields.io/badge/Embeddings-1a1a1a?style=flat-square" />
+<img alt="Computer vision" src="https://img.shields.io/badge/Computer%20vision-1a1a1a?style=flat-square" />
+
+[→ Read the Computer Vision case study](https://github.com/jesscancode/full-art-case-study)
+
+</td>
+</tr>
+<tr><td colspan="2"><br></td></tr>
+<!-- ROW END: Full Art -->
 
 <!-- ROW START: claude-like-a-baby-engineer -->
 <tr>
